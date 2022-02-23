@@ -1,16 +1,8 @@
-# puzzle
+# Flutter Puzzle Hack
 
-A new Flutter project.
+Puzzle template based on article from Very Good Ventures Team
 
-## Getting Started
+https://medium.com/flutter/how-to-build-your-own-flutter-slide-puzzle-93721ac5fad2
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/21267045/155252799-1d7b9a2b-d4ec-44a7-a7c3-a1ecac4b6dc6.png)
